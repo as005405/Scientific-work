@@ -1,6 +1,10 @@
 <h1>Scientific work</h1>
 
+
+My classmate and I did this work last year.
+
 The first thing you see will be:
+
 ![alt text](https://github.com/as005405/Scientific-work/blob/main/MathGr/Image/Рисунок1.png)
 
 You can define functions for sin, cos, tg, ctg.
